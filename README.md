@@ -47,7 +47,7 @@ creative tools and interactive projects.
 
 ### ✦ Selected projects
 
-**[INGO Planner](https://planner.ingo.net.br)**  
+**INGO Planner**  
 A digital tool for organizing creative content
 and social media publications.
 
